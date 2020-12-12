@@ -16,7 +16,7 @@ data = [[np.around(dataset['x'][i], decimals = 3), np.around(dataset['y'][i], de
 k = 4
 
 # instantiate K-Means Clustering class 
-kmeans = KMeansClustering(k = 4, dataset = data)
+kmeans = KMeansClustering(k = k, dataset = data)
 
 # train model and store output dictionary of centroid keys and coordinates values
 centroid_dict = kmeans.train()
