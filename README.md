@@ -15,7 +15,7 @@ Standard 2D K-Means Clustering Algorithm in Numpy, using Forgy Initialization, t
 ### To run:
 ```python
 python kmeans_train.py 
-```
+``` 
 
 ### Output:
 
