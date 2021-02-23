@@ -21,4 +21,4 @@ python kmeans_train.py
 
 ### Output:
 
-![](images/kmeans_plot.png)
+![](images/kmeans_plot.png) 
